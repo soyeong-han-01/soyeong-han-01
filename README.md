@@ -7,7 +7,7 @@
 
 ### 1. Home Plus
 - **저장소:** [home_plus](https://github.com/twotwoship/home_plus)
-- **프로젝트 소개:** 추후 작성 예정
+- **프로젝트 소개:** STM32와 Qt를 UART로 연결해 실내 환경을 모니터링하고 조명·모터·알람을 제어하는 홈 IoT 월패드
 - **담당 역할:** 추후 작성 예정
 
 ### 2. 졸음운전 감지 시스템
@@ -17,7 +17,7 @@
 
 ### 3. Jetson Smart Fan Controller
 - **저장소:** [jetson-smart-fan-controller](https://github.com/hckim-dev/jetson-smart-fan-controller)
-- **프로젝트 소개:** 추후 작성 예정
+- **프로젝트 소개:** Linux 커널 드라이버와 C로 모터 제어 및 장애 시 정지 기능을 구현한 스마트 선풍기
 - **담당 역할:** 추후 작성 예정
 
 ## 📝 학습 기록
